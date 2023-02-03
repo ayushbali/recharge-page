@@ -1,0 +1,20 @@
+.btn {
+  bottom: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.primary-btn {
+  position: absolute;
+  bottom: 15px;
+  width: 90%;
+  border-radius: 100px;
+  padding: 10px 20px;
+  background-color: #1eccb0;
+  border: none;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 12px;
+}

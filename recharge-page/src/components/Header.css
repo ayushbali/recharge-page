@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  height: auto;
+  background-color: #1eccb0;
+  padding: 1rem;
+  align-items: center;
+  gap: 1.2rem;
+}
+
+.container p {
+  font-size: 14px;
+}
